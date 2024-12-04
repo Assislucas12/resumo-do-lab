@@ -31,3 +31,11 @@ O Microsoft Entra ID (anteriormente Azure Active Directory) é um serviço de ge
 
 O Azure também permite a colaboração com identidades externas, oferecendo acesso de convidado para parceiros, fornecedores e clientes, com controle granular sobre permissões. Além disso, o Acesso Condicional do Entra é uma ferramenta que aplica políticas de segurança baseadas em condições específicas, como localização, tipo de dispositivo e risco de login, permitindo ações como exigir MFA, bloquear acessos suspeitos ou garantir a conformidade de dispositivos antes de autorizar o acesso.
 
+
+# Definição de Preço e Azure Marketplace
+A Calculadora de Preço do Azure é uma ferramenta online que permite estimar os custos de serviços no Azure, personalizando configurações como tipo de serviço, região e consumo esperado. Ajuda a planejar orçamentos com base em cenários de uso específicos.
+
+O TCO (Total Cost of Ownership) é um recurso que compara os custos de infraestrutura local com a migração para o Azure. Ele considera fatores como despesas operacionais, manutenção e economia proporcionada pela nuvem, ajudando na tomada de decisão sobre investimentos.
+
+O Azure Marketplace é uma plataforma que oferece soluções prontas de parceiros e da Microsoft, incluindo aplicativos, serviços e integrações. Facilita a implementação de ferramentas diretamente no Azure, economizando tempo e aumentando a produtividade.
+
