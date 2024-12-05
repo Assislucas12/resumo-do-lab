@@ -39,3 +39,5 @@ O TCO (Total Cost of Ownership) é um recurso que compara os custos de infraestr
 
 O Azure Marketplace é uma plataforma que oferece soluções prontas de parceiros e da Microsoft, incluindo aplicativos, serviços e integrações. Facilita a implementação de ferramentas diretamente no Azure, economizando tempo e aumentando a produtividade.
 
+# Segurança e Bloqueios
+Microsoft Purview é uma solução de governança de dados que organiza, rastreia e protege dados em ambientes híbridos e multicloud, facilitando conformidade e descoberta de informações. Os Bloqueios do Azure evitam alterações ou exclusões acidentais de recursos, com tipos como ReadOnly (somente leitura) e Delete (impede exclusão). Já o Azure Policy aplica políticas de governança, garantindo que recursos estejam em conformidade com padrões organizacionais, podendo corrigir desvios automaticamente. Essas ferramentas ajudam na gestão segura e eficiente de dados e recursos no Azure.
